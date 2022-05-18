@@ -1,0 +1,19 @@
+.odd-section{
+    background-color: #ffabb6;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#section2{
+    color: #9ec8e8;
+    font-size: 36px;
+}
+
+.section3{
+    font-size: 24px;
+}
+
+#section4{
+    font-weight: bold;
+    background-color: #7db58e;
+    font-size: 24px;
+}
