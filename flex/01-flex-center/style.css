@@ -5,8 +5,8 @@
   height: 300px;
   display: flex; 
   /* unless you specify its a flexbox, flexbox stuff won't work */
-  align-items: center;
-  justify-content: center;
+  align-items: center; /* aligns along CROSS axis */
+  justify-content: center; /* aligns content along MAIN axis */
 }
 
 .box {
